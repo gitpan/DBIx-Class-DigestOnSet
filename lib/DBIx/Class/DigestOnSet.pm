@@ -8,7 +8,7 @@ use Digest;
 
 __PACKAGE__->mk_classdata( _digest_encoders => {} );
 
-our $VERSION = '0.000001_01';
+our $VERSION = '0.000001_02';
 
 sub register_column {
   my $self = shift;

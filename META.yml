@@ -23,4 +23,4 @@ recommends:
 requires: 
   DBIx::Class: 0.06002
   Digest: 1.11
-version: 0.000001_01
+version: 0.000001_02
